@@ -1,0 +1,32 @@
+.home{
+    
+    font-size: 3.5rem;
+    line-height: 75px;
+   
+}
+.bike{
+    color: #e2e2ffad;
+}
+
+.headerr{
+    color: white;
+    background-color: #16213e;
+    height: 470px;
+}
+
+.btnn{
+    box-shadow: 0 .5rem 1rem rgba(255, 0, 0, 0.705)!important;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.btnn:hover{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.45)!important;
+}
+
+.imge{
+    background-color: turquoise;
+    width: 90%;
+    border: 3px solid aliceblue ;
+    border-radius: 500px;
+}

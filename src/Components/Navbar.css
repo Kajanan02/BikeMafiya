@@ -1,0 +1,15 @@
+.link{
+    padding: 0 30px !important;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+.link:hover{
+color: rgb(226, 240, 253) !important ;
+}
+
+.brand{
+    font-size: 1.5rem;
+    font-weight: 900;
+    padding-left: 50px;
+}
